@@ -1,0 +1,10 @@
+C:\Users\slana\Documents\c lang\c++\Filters_lab1\obj\Debug\Filters_lab1.csproj.AssemblyReference.cache
+C:\Users\slana\Documents\c lang\c++\Filters_lab1\obj\Debug\Filters_lab1.Form1.resources
+C:\Users\slana\Documents\c lang\c++\Filters_lab1\obj\Debug\Filters_lab1.Properties.Resources.resources
+C:\Users\slana\Documents\c lang\c++\Filters_lab1\obj\Debug\Filters_lab1.csproj.GenerateResource.cache
+C:\Users\slana\Documents\c lang\c++\Filters_lab1\obj\Debug\Filters_lab1.csproj.CoreCompileInputs.cache
+C:\Users\slana\Documents\c lang\c++\Filters_lab1\bin\Debug\Filters_lab1.exe.config
+C:\Users\slana\Documents\c lang\c++\Filters_lab1\bin\Debug\Filters_lab1.exe
+C:\Users\slana\Documents\c lang\c++\Filters_lab1\bin\Debug\Filters_lab1.pdb
+C:\Users\slana\Documents\c lang\c++\Filters_lab1\obj\Debug\Filters_lab1.exe
+C:\Users\slana\Documents\c lang\c++\Filters_lab1\obj\Debug\Filters_lab1.pdb

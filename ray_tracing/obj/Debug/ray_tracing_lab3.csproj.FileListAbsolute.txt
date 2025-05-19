@@ -1,0 +1,17 @@
+C:\Users\slana\Documents\c lang\c++\ray_tracing\bin\Debug\ray_tracing.exe.config
+C:\Users\slana\Documents\c lang\c++\ray_tracing\bin\Debug\ray_tracing.exe
+C:\Users\slana\Documents\c lang\c++\ray_tracing\bin\Debug\ray_tracing.pdb
+C:\Users\slana\Documents\c lang\c++\ray_tracing\bin\Debug\OpenTK.dll
+C:\Users\slana\Documents\c lang\c++\ray_tracing\bin\Debug\OpenTK.GLControl.dll
+C:\Users\slana\Documents\c lang\c++\ray_tracing\bin\Debug\OpenTK.pdb
+C:\Users\slana\Documents\c lang\c++\ray_tracing\bin\Debug\OpenTK.xml
+C:\Users\slana\Documents\c lang\c++\ray_tracing\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\slana\Documents\c lang\c++\ray_tracing\bin\Debug\OpenTK.GLControl.xml
+C:\Users\slana\Documents\c lang\c++\ray_tracing\obj\Debug\ray_tracing_lab3.csproj.AssemblyReference.cache
+C:\Users\slana\Documents\c lang\c++\ray_tracing\obj\Debug\ray_tracing.Properties.Resources.resources
+C:\Users\slana\Documents\c lang\c++\ray_tracing\obj\Debug\ray_tracing_lab3.csproj.GenerateResource.cache
+C:\Users\slana\Documents\c lang\c++\ray_tracing\obj\Debug\ray_tracing_lab3.csproj.CoreCompileInputs.cache
+C:\Users\slana\Documents\c lang\c++\ray_tracing\obj\Debug\ray_tracing_lab3.csproj.CopyComplete
+C:\Users\slana\Documents\c lang\c++\ray_tracing\obj\Debug\ray_tracing.exe
+C:\Users\slana\Documents\c lang\c++\ray_tracing\obj\Debug\ray_tracing.pdb
+C:\Users\slana\Documents\c lang\c++\ray_tracing\obj\Debug\ray_tracing.Form1.resources

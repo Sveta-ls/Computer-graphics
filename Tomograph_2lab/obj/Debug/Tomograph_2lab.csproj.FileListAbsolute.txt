@@ -1,0 +1,17 @@
+C:\Users\slana\Documents\c lang\c++\Tomograph_2lab\bin\Debug\Tomograph_2lab.exe.config
+C:\Users\slana\Documents\c lang\c++\Tomograph_2lab\bin\Debug\Tomograph_2lab.exe
+C:\Users\slana\Documents\c lang\c++\Tomograph_2lab\bin\Debug\Tomograph_2lab.pdb
+C:\Users\slana\Documents\c lang\c++\Tomograph_2lab\bin\Debug\OpenTK.dll
+C:\Users\slana\Documents\c lang\c++\Tomograph_2lab\bin\Debug\OpenTK.GLControl.dll
+C:\Users\slana\Documents\c lang\c++\Tomograph_2lab\bin\Debug\OpenTK.pdb
+C:\Users\slana\Documents\c lang\c++\Tomograph_2lab\bin\Debug\OpenTK.xml
+C:\Users\slana\Documents\c lang\c++\Tomograph_2lab\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\slana\Documents\c lang\c++\Tomograph_2lab\bin\Debug\OpenTK.GLControl.xml
+C:\Users\slana\Documents\c lang\c++\Tomograph_2lab\obj\Debug\Tomograph_2lab.csproj.AssemblyReference.cache
+C:\Users\slana\Documents\c lang\c++\Tomograph_2lab\obj\Debug\Tomograph_2lab.Form1.resources
+C:\Users\slana\Documents\c lang\c++\Tomograph_2lab\obj\Debug\Tomograph_2lab.Properties.Resources.resources
+C:\Users\slana\Documents\c lang\c++\Tomograph_2lab\obj\Debug\Tomograph_2lab.csproj.GenerateResource.cache
+C:\Users\slana\Documents\c lang\c++\Tomograph_2lab\obj\Debug\Tomograph_2lab.csproj.CoreCompileInputs.cache
+C:\Users\slana\Documents\c lang\c++\Tomograph_2lab\obj\Debug\Tomograph_2lab.csproj.CopyComplete
+C:\Users\slana\Documents\c lang\c++\Tomograph_2lab\obj\Debug\Tomograph_2lab.exe
+C:\Users\slana\Documents\c lang\c++\Tomograph_2lab\obj\Debug\Tomograph_2lab.pdb

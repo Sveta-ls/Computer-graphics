@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ray_tracing_lab3", "ray_tracing_lab3.csproj", "{7D6372C3-CB26-422F-948D-C30EBB24173F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shaders", "Shaders", "{0EAD57C1-3894-4034-91CD-1182ACD3D475}"
+	ProjectSection(SolutionItems) = preProject
+		raytracing.vert = raytracing.vert
+		raytracing.frag = raytracing.frag
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D6372C3-CB26-422F-948D-C30EBB24173F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D6372C3-CB26-422F-948D-C30EBB24173F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D6372C3-CB26-422F-948D-C30EBB24173F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D6372C3-CB26-422F-948D-C30EBB24173F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E219E0EB-3CF1-42E2-AB40-30BD65FDC1D8}
+	EndGlobalSection
+EndGlobal
